@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/anshika_2327/?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/anshika_2327?theme=dark&font=Karma"/>
 </p>
 
 ---
